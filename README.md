@@ -1,2 +1,1 @@
-# sing-box-reality-hysteria2
-forked from deathline94/sing-REALITY-Box
+bash <(curl -fsSL https://github.com/liuoqu444/sing-box-reality-hysteria2/raw/main/reality_hy2_ws.sh)
